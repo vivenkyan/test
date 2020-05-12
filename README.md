@@ -1,2 +1,2 @@
 # test
-This is a test public repo.
+This is a public test repo.
